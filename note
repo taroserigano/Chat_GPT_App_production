@@ -1,0 +1,10 @@
+npm run dev 
+
+npx prisma studio 
+
+
+
+for build
+
+"build": "npx prisma generate && next build", 
+
