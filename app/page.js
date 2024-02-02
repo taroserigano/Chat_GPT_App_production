@@ -7,11 +7,11 @@ const HomePage = () => {
         <div className='max-w-md'>
           <h1 className='text-6xl font-bold text-primary'>GPTGenius </h1>
           <p className='py-6 text-lg leading-loose'>
-            GPTGenius: Your AI language companion. Powered by OpenAI, it
-            enhances your conversations, content creation, and more!
+
+          ChatGPT is a conversational language model developed by OpenAI. It is based on the GPT (Generative Pre-trained Transformer) architecture, specifically GPT-3.5 in this case... by ChatGPT
           </p>
           <Link href='/chat' className='btn btn-secondary'>
-            Get Started
+            Let's Start!
           </Link>
         </div>
       </div>
